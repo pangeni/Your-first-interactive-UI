@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
         button2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Toast.makeText(MainActivity.this, "Hello Toast", Toast.LENGTH_LONG).show();
+                Toast.makeText(MainActivity.this, "Hello Toast!", Toast.LENGTH_LONG).show();
                 count = 0 ;
                 text.setText(""+ count);
             }
