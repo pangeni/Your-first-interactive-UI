@@ -1,5 +1,7 @@
-#Score Count
+# Hello Toast Lab Exercise
+
+## Score Count
 ![alt text](scoreToast.png)
 
-##Hello Toast
+## Hello Toast
 ![alt text](toastHello.png)
